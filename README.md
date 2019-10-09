@@ -5,4 +5,6 @@ The problem in question is a multi-class Classification problem. The input data 
                            My approach is to find an optimal model which can solve the task in hand accurately and quickly. So, I will be using few classification algorithms on the dataset to see which one performs better and then use the one that provides the best output and work on that model further to fine tune its parameters to reach an optimum model.
 
 DataSet :
-The dataset I am going to use is an open source dataset which can be found in the UCI Machine Learning repository .( http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
+The dataset I am going to use is an open source dataset which can be found in the UCI Machine Learning repository .
+
+( http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
